@@ -33,6 +33,7 @@ const Tetris = () => {
     //Reset Everything first
     setStage(createStage());
     resetPlayer();
+    setGameOver(false);
   };
 
   const drop = () => {
