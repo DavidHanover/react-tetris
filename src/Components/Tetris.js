@@ -13,7 +13,6 @@ import { useStage } from "../Hooks/useStage";
 import Stage from "./Stage";
 import Display from "./Display";
 import StartButton from "./StartButton";
-import { start } from "repl";
 
 const Tetris = () => {
   const [dropTime, setDropTime] = useState(null);
@@ -68,7 +67,7 @@ const Tetris = () => {
               <Display text="Level" />
             </div>
           )}
-          <StartButton onClick={startGame} />
+          <StartButton callback={startGame} />
         </aside>
       </StyledTetris>
     </StyledTetrisWrapper>
