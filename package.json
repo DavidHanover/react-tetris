@@ -28,5 +28,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "https://davidhanover.github.io/react-tetris/build/"
 }
