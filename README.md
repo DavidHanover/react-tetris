@@ -6,7 +6,7 @@ It was 100% built in React.
 
 Rotate shapes with the up arrow, move them left and right with the left and right keys, and accelerate their descent with the down arrow.
 
-![TETRIS!!](https://imgur.com/wGgGCSs)
+![TETRIS!!](https://github.com/DavidHanover/react-tetris/blob/master/Tetris.JPG)
 
 
 
