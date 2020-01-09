@@ -1,3 +1,54 @@
+Hey there!
+
+This here is a front-end-only implementation of Tetris for you browser!
+
+It was 100% built in React.
+
+Rotate shapes with the up arrow, move them left and right with the left and right keys, and accelerate their descent with the down arrow.
+
+![TETRIS!!](https://imgur.com/wGgGCSs)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
